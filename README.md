@@ -32,8 +32,11 @@ Each factor has various options with assigned scores to quantify the risk levels
 - Interact with the GUI to select different risk factors.
 - Evaluate to see the risk assessment graph.
 
+### Example 
 ![Image Description](/owaspimage.png)
+
 ![Image Description](/owaspimage2.png)
+
 ## Help
 
 For more information on how to use the calculator and understand the methodology, please visit [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology).
